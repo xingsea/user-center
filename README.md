@@ -15,17 +15,17 @@
 
   ![](image/login.png)
 
-  ![](image\register.png)
+  ![](image/register.png)
 
 - 用户信息管理
 
 - 用户数据分析
 
-  ![](image\analysis.png)
+  ![](image/analysis.png)
 
 - 管理员用户管理界面
 
-  ![](image\management.png)
+  ![](image/management.png)
 
 - 权限控制
 
